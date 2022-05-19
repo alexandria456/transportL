@@ -14,7 +14,6 @@ $result = new Calculator();
 //$result->calcTransport($airplane);
 
 //Вывод
-$result->getPriceFormula();
 $result->sort();
 $result->cheapestOption();
 $result->getFormula();
